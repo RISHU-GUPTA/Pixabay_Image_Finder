@@ -7,7 +7,8 @@
     "material-ui": "^0.20.2",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "homepage" : "http://RISHU-GUPTA.github.io/Pixabay_Image_Finder"
   },
   "scripts": {
     "start": "react-scripts start",
