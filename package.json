@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
-    "homepage": "http://RISHU-GUPTA.github.io/Pixabay_Image_Finder",
+    "homepage": "http://RISHU-GUPTA.github.io/Pixabay_Image_Finder/public",
     "material-ui": "^0.20.2",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
